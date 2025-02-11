@@ -24,3 +24,20 @@
 # O Windows
 ![](https://cdn.dribbble.com/users/1063469/screenshots/4100137/media/901d1c0a6340f56ae5f6b40f557f179c.gif)
 ### Um dos tipos de sistemas operacionais é o Windows, ele possui um código fonte fechado para que ninguém consiga acessar ele e fazer modificações (isto se não for visualizado de forma ilegal), fora seus desenvolvedores. O sistema operacional Windows foi criado pela empresa norte americana Microsoft em 1990. Atualmente o Windows recebe atualizações importantes que o torna mais eficiente e único devido a introdução de novas tecnologias e atributos 
+
+# Fontes
+``` markdown
+https://tecnoblog.net/responde/o-que-e-software/
+```
+
+``` markdown
+https://tecnoblog.net/responde/o-que-e-software/](https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
+```
+
+``` markdown
+https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura#:~:text=sistema%20operacional%20Linux%3F-,O%20que%20%C3%A9%20um%20sistema%20operacional%3F,ao%20que%20voc%C3%AA%20consegue%20interagir.
+```
+
+``` markdown
+https://tecnoblog.net/responde/o-que-e-hardware/
+```
