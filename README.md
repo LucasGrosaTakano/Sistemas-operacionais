@@ -15,8 +15,8 @@
 ### Agora tendo em mente os conhecimentos sobre softwares e hardwares será possível compreender oque são os sistemas operacionais. Um sistema operacional é um conjunto de softwares que faz um gerenciamento de todas as informações, ações e processamentos de um dispositivo eletrónico, entenda o processador como um gestor de uma indústria que organiza a tarefa dos seus operadores e garante que tudo aconteça de forma correta na fábrica. De acordo com Tanenbaum o autor do livro "sistemas operacionais modernos" o sistema operacional surgiu para intermediar o diálogo entre máquina e pessoa programadora, isto é: o sistema operacional facilitou o uso de maquinas hardware fornecendo uma eficiência ao usuário
 ### Formas de Processamento:
 
-- Monoprogramada: um único programa na máquina.
-- Multiprogramada: é eficiente e apresenta vários programas dentro de um sistema.
+- __Monoprogramada: um único programa na máquina.__
+- __Multiprogramada: é eficiente e apresenta vários programas dentro de um sistema.__
 
 ### Sistemas operacionais mais utilizados (pesquisa da alura):
 ![](https://www.alura.com.br/artigos/assets/sistemas-operacionais-conceito-estrutura/grafico.png)
