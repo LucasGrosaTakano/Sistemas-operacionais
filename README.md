@@ -13,7 +13,11 @@
 # Sistemas Operacionais
 ![](https://a3aengenharia.com.br/wp-content/uploads/2024/12/sistemas-operacionais.jpeg)
 ### Agora tendo em mente os conhecimentos sobre softwares e hardwares será possível compreender oque são os sistemas operacionais. Um sistema operacional é um conjunto de softwares que faz um gerenciamento de todas as informações, ações e processamentos de um dispositivo eletrónico, entenda o processador como um gestor de uma indústria que organiza a tarefa dos seus operadores e garante que tudo aconteça de forma correta na fábrica.  
+###Formas de Processamento:
 
+- Monoprogramada: um único programa na máquina.
+- Multiprogramada: é eficiente e apresenta vários programas dentro de um sistema.
+  
 # O Windows
 ![](https://cdn.dribbble.com/users/1063469/screenshots/4100137/media/901d1c0a6340f56ae5f6b40f557f179c.gif)
 ### Um dos tipos de sistemas operacionais é o Windows, ele possui um código fonte fechado para que ninguém consiga acessar ele e fazer modificações (isto se não for visualizado de forma ilegal), fora seus desenvolvedores. O sistema operacional Windows foi criado pela empresa norte americana Microsoft em 1990. Atualmente o Windows recebe atualizações importantes que o torna mais eficiente e único devido a introdução de novas tecnologias e atributos 
