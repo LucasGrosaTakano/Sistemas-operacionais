@@ -17,7 +17,10 @@
 
 - Monoprogramada: um único programa na máquina.
 - Multiprogramada: é eficiente e apresenta vários programas dentro de um sistema.
-  
+
+### Sistemas operacionais mais utilizados (pesquisa da alura):
+![](https://www.alura.com.br/artigos/assets/sistemas-operacionais-conceito-estrutura/grafico.png)
+
 # O Windows
 ![](https://cdn.dribbble.com/users/1063469/screenshots/4100137/media/901d1c0a6340f56ae5f6b40f557f179c.gif)
 ### Um dos tipos de sistemas operacionais é o Windows, ele possui um código fonte fechado para que ninguém consiga acessar ele e fazer modificações (isto se não for visualizado de forma ilegal), fora seus desenvolvedores. O sistema operacional Windows foi criado pela empresa norte americana Microsoft em 1990. Atualmente o Windows recebe atualizações importantes que o torna mais eficiente e único devido a introdução de novas tecnologias e atributos 
